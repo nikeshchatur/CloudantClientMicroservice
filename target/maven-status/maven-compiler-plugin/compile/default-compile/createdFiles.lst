@@ -1,0 +1,5 @@
+com\airlinestatus\common\Connect.class
+com\airlinestatus\controller\AirlineStatusController.class
+com\airlinestatus\model\AirlineStatus.class
+com\airlinestatus\dao\AirlineStatusDAO.class
+com\airlinestatus\AirlineStatusDaoApplication.class
